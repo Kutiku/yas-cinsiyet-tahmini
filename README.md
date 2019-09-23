@@ -9,4 +9,4 @@
   <h2>Train</h2>
   Çıkan bu .mat dosyasını daha sonra train ederek bir kaç epoch sürüdyse eğitme .h5 dosyasında belirterek modelimizin çıktısını alıyoruz ve demo.py kısmında hangi modeli kullanacağımızı seçiyoruz ve modelimize göre anlık veya fotoğraftan yaş ve cinsiyetin tahminini yapıyor.
   
-  <h3>NOT:</h3> Düşük sistemli bilgisayarlarda eğitim can sıkıcı derecede uzun olabilmektedir. Hazır eğitilmiş model konulacaktır.
+  <h3>NOT:</h3> Düşük sistemli bilgisayarlarda eğitim can sıkıcı derecede uzun olabilmektedir. Hazır eğitilmiş model boyut olarak fazla olduğu için konulamamaktadır.
